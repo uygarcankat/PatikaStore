@@ -262,6 +262,7 @@ public class Sort {
         Mark.add("Xiaomi");
         Mark.add("Monster");
 
+        Collections.sort(Mark);
 
         phone SAMSUNG_A51 = new phone(1, "SAMSUNG GALAXY A51", 3199.0, "Samsung ", 128, 6.5, 32, 4000.0, 6, "Siyah");
         phone iPhone_11_64 = new phone(2, "iPhone 11 64 GB ", 7379.0, "Apple ", 64, 6.1, 5, 3046.0, 6, "mavi");
